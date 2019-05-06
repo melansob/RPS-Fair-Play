@@ -19,9 +19,9 @@ while (choice != "q"){
   x = 0
   turns = playerTurn + cpuTurn;
   winFinder()
-  /*player = wordify(playerTurn);
+  player = wordify(playerTurn);
   cpu = wordify(cpuTurn);
-  alert("Your move was "+player+", I chose "+cpu)*/
+  alert("Your move was "+player+", I chose "+cpu)
 }
 
 /*Player Turn Function*/
