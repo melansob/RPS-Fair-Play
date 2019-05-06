@@ -1,1 +1,1 @@
-# RPS-Fair-Play
+# RPS Fair Play
