@@ -6,7 +6,7 @@ var winArray=[
 ["p","s","I"],["p","r","you"],
 ["s","r","I"],["s","p","you"]];
 var wordArray=[["r","rock"],["p","paper"],["s","scissors"]];
-
+var choice = "";
 
 /* Main: First While (Quit?) */
 while (choice != "q"){
